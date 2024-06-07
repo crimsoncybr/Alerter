@@ -19,11 +19,11 @@ Prerequisites
 
 Installation
 1. Clone or download the script to your Linux system.
-2. Ensure that the script has executable permissions using `chmod +x script_name.sh`.
-3. Run the script with `./script_name.sh`.
+2. Ensure that the script has executable permissions using `chmod +x alerter.sh`.
+3. Run the script with `./alerter.sh`.
 
 Usage
-- Run the script with root privileges (`sudo ./script_name.sh`).
+- Run the script with root privileges (`sudo ./alerter.sh`).
 - Follow the on-screen instructions to:
     - Start specific services (SMB, SSH, FTP) or all services.
     - Monitor established connections.
